@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "is_gif": true,
+    "all_rendered_frames_and_delays_match": true,
+    "loop_matches": true,
+    "no_fixture_markers": true,
+    "only_expected_extensions": true,
+    "no_trailing_bytes": true
+  },
+  "actual_format": "GIF",
+  "frame_count": 48,
+  "extensions": [
+    "loop-forever"
+  ],
+  "markers": []
+}
